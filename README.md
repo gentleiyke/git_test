@@ -1,1 +1,3 @@
-This is Gentleiyke's first git project!
+# git_test
+This is Gentleiyke's first git repos!
+Hello Odin!!
